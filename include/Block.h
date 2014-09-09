@@ -1,0 +1,23 @@
+
+#ifndef INC_BLOCK_
+#define INC_BLOCK_
+
+#define BLOCK_HEIGHT 30
+#define BLOCK_WIDTH 60
+
+
+typedef enum {
+  BLOCK_NEUTRAL,
+  BLOCK_SHIELD,
+  BLOCK_SHRINK,
+  BLOCK_ENLARGE,
+  BLOCK_HEART_PLUS,
+  BLOCK_HEART_MINUS,
+  BLOCK_BALL_NEUTRAL,
+  BLOCK_EMPTY,
+
+  __BLOCK_TYPE_LAST
+} Block_Type;
+
+#endif
+

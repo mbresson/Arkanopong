@@ -1,0 +1,20 @@
+	========================
+  ==     Arkanopong     ==
+  ========================
+
+Arkanopong is a game mixing the gameplay of pong and bricks breaking. It is written in C.
+It was a short-term project developed in a few weeks at IMAC engineering school (http://ingenieur-imac.fr/). 
+It requires SDL, SDL_TTF, SDL_mixer, SDL_image, libGL and libGLU to be linked against.
+It is GPLv3-licensed (see LICENSE for further information).
+You may read the report I have made for my work in rapport.pdf (in French).
+
+  ========================
+  ==     Resources      ==
+  ========================
+
+data/fonts/DroidSans.ttf is a font designed by Google (Apache License v2.00)
+data/fonts/DejaVuSans.ttf is a public domain font
+
+I created all the .png images for the game using Inkscape and the background image of the basic theme is a photo I took on a travel to Laos. You can do What The Fuck You Want To with them (WTFPL).
+I created all the .wav audio files for the game using Audacity. You can do WTFPL as well.
+

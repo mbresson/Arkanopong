@@ -1,0 +1,12 @@
+
+# formatting of a themes.list file:
+#
+# one theme name per line
+# comments begin with a #
+# empty lines are ignored
+#
+
+basic
+
+# 'plan' has been designed to show people how to create new themes
+plan

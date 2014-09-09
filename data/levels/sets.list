@@ -1,0 +1,20 @@
+
+# formatting of a sets.list file:
+#
+# one set name per line
+# after the set name, write the number of levels it contains
+# these levels must be stored in its directory and be named like so:
+# 1.level 2.level 3.level etc.
+#
+# comments begin with a #
+# empty lines are ignored
+#
+
+basic
+11
+
+
+empty
+
+1
+
