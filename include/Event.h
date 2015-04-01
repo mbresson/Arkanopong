@@ -28,7 +28,7 @@ typedef enum {
 
 /**
  * @return
- * an array allocated on the stack whose length == (EVENT_KEY_ESCAPE + 1)
+ * a statically-allocated array whose length == __EVENT_TYPE_LAST
  * containing boolean values for each element in Event_Type enum
  * if the value is true, then the key is pressed
  */
